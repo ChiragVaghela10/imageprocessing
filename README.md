@@ -15,4 +15,6 @@ Smoothening Operation Example: <br/>
 ## installation
 
 Please run install.sh as follows to complete installation: <br/>
+``
 $ ./install.sh
+``
